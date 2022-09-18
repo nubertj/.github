@@ -5,4 +5,6 @@ As part of my PhD I am also involved in research at the [Haptic Intelligence Dep
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=nubertj&show_icons=true&theme=synthwave&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nubertj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leo-stan&repo=particles_detection_fsr&show_owner=true)](https://github.com/leo-stan/particles_detection_fsr)
