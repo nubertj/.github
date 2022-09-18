@@ -1,0 +1,3 @@
+# Welcome to my profile :)
+
+[200~![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave&count_private=true)
